@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  #story {
+    font-size: 18px;
+    margin-bottom: 20px;
+  }
+  
+  button {
+    margin-right: 10px;
+  }
